@@ -1,0 +1,21 @@
+# ambiente virtual
+.venv/
+venv/
+
+# cache python
+__pycache__/
+*.pyc
+
+# variáveis de ambiente
+.env
+
+# arquivos pesados / dados locais
+*.csv
+*.xlsx
+*.parquet
+
+# sistema / editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
